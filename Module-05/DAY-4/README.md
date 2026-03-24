@@ -26,8 +26,8 @@
  ```
 /*
 Program to implement a IS-A RELATIONSHIP AND HAS-A RELATIONSHIP using Java
-Developed by: Priyanka A
-RegisterNumber: 212222230113 
+Developed by: AADHITHAN B
+RegisterNumber: 212224040001 
 */
 ```
 
