@@ -20,8 +20,8 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: Rithika R
-RegisterNumber: 212224240136 
+Developed by: AADHITHAN B
+RegisterNumber: 212224040001 
 */
 ```
 
