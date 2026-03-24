@@ -27,8 +27,8 @@ To Create a java program to display the reverse string and  use tightly encapsul
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: Priyanka A
-RegisterNumber: 212222230113
+Developed by: AADHITHAN B
+RegisterNumber: 212224040001 
 */
 ```
 
